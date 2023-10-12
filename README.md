@@ -1,21 +1,22 @@
-# HELLO~
-<!-- 背景图 -->
-<br />
-<br />
-<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
-
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on [DXY](https://dxy.com/)~
-- 🏋 I'm passionate about fitness, and it pays off ~
-- 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4459274891717223)
-- ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
-- 📨 My email address is `moyuanjun@kunlunxu.cc` Welcome to contact me 👏🏻 ~
+<!-- 背景图 -->
+<img src="https://octodex.github.com/images/mona-lovelace.jpg" height="180" align="right"/>
+<img src="https://octodex.github.com/images/snowtocat_final.jpg" height="180" align="right"/>
 
-作者：墨渊君
-链接：https://juejin.cn/post/7220439797566947389
-来源：稀土掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+:heart: Programming | :purple_heart: movie | :blue_heart: Anime
+
+- 🔭 I'm currently engaged in front-end development ~
+- 👨‍💻 I'm passionate about coding and have been developing my skill ~ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👻  I’m looking to collaborate on Web Development Projects ~
+- 📨 My email address is `yyl9858@163.com` Welcome to contact me 👏🏻 ~  
+
+# 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=yl995&show_icons=true&rank_icon=github&theme=buefy" align="left"/>
+  <img src="https://octodex.github.com/images/skatetocat.png" height="200" align="right"/>
+  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="200" align="right"/>
+  <!-- <img src="https://github-readme-stats.zohan.tech/api/top-langs?username=yl995&layout=buefy"/> -->
+</div>
