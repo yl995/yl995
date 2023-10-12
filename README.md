@@ -3,7 +3,7 @@
 <br />
 
 <!-- 背景图 -->
-<img src="https://octodex.github.com/images/mona-lovelace.jpg" height="200" align="right"/>
+<img src="https://octodex.github.com/images/mona-lovelace.jpg" height="180" align="right"/>
 <!-- <img src="https://octodex.github.com/images/snowtocat_final.jpg" height="180" align="right"/> -->
 
 :heart: Programming | :purple_heart: movie | :blue_heart: Anime
